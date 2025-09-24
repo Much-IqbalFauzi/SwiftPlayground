@@ -150,3 +150,9 @@ employee2["manager"]
 employee2["name", default: "Unknown"]
 employee2["job", default: "Unknown"]
 employee2["location", default: "Unknown"]
+employee2["randomId", default: "Unknown"]
+
+var heights = [String: Int]()
+heights["Yao Ming"] = 229
+heights["Shaquille O'Neal"] = 216
+heights["LeBron James"] = 206
